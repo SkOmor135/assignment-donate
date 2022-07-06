@@ -55,3 +55,76 @@ h4 {
 .donate {
     color: rgb(0, 0, 0);
 }
+
+.flexible {
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+.box1 {
+    padding: 50px;
+    border-radius: 10px;
+    background-color: rgb(235, 223, 223);
+
+
+}
+
+.box2 {
+    padding: 50px;
+    margin-left: 40px;
+    border-radius: 10px;
+    border: 5px solid rgb(224, 144, 144);
+    background-color: rgb(232, 177, 177);
+}
+
+.box3 {
+    padding: 50px;
+    margin-left: 40px;
+    border-radius: 10px;
+    background-color: rgb(235, 223, 223);
+}
+
+.box4 {
+    padding: 50px;
+    margin-left: 40px;
+    border-radius: 10px;
+    background-color: rgb(235, 223, 223);
+}
+
+.box5 {
+    padding: 50px;
+    margin-left: 40px;
+    border-radius: 10px;
+    background-color: rgb(235, 223, 223);
+}
+
+.input {
+    text-align: center;
+    margin: 80px;
+}
+
+.amount {
+    text-align: center;
+    font-size: 30px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+
+hr {
+    width: 80%;
+}
+
+.DONATE {
+    margin-top: 30px;
+    border: none;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 0, 183), tomato);
+    padding: 10px 40px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 700;
+}
