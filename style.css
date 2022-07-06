@@ -215,7 +215,7 @@ span {
 
 .link-button {
     text-decoration: none;
-    background-image: linear-gradient(rgb(85, 0, 255), rgb(47, 38, 37));
+    background-image: linear-gradient(rgba(144, 45, 243, 0.792), rgb(158, 153, 151));
     padding: 10px 40px;
     border-radius: 15px;
     color: white;
